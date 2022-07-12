@@ -1,0 +1,87 @@
+header{
+    width: 100%;
+    height: 15%;
+    background-color: black;
+}
+body{
+    border:0;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(72, 189, 72);
+}
+.corpo{
+    height: 50%;
+    width: 50%;
+    background-color: rgb(0, 34, 4);
+    border-radius: 20px;
+    margin: 5% auto;
+    padding: 4%;
+    color: white;
+}
+.corpo2{
+    height: 70%;
+    width: 90%;
+    background-color: rgb(0, 34, 4);
+    border-radius: 20px;
+    margin: 5% auto;
+    padding: 4%;
+    color: white;
+}
+.corpo3{
+    height: 70%;
+    width: 30%;
+    background-color: rgb(0, 34, 4);
+    border-radius: 20px;
+    margin-left: 2% ;
+    margin-top: 2% ;
+    padding: 4%;
+    font-size: 170%;
+    color: white;
+}
+#artista{
+    color: rgb(5, 116, 20);
+    padding: 2% auto;
+
+}
+#fonte{
+    color:rgb(5, 116, 20);
+    padding: 1.7%;
+    font-size: 300%;
+}
+#search{
+    border: none;
+    border-radius: 10px;
+    margin-left: 59%;
+    opacity: 70%;
+    font-size: 50%;
+    width: 20rem;
+    height: 3rem;
+}
+#submit{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(72, 189, 72);
+    opacity: 70%;
+    font-size: 50%;
+    width: 8rem;
+    height: 3rem;
+}
+th{
+    margin: auto;
+    padding: 2%;
+    font-size: 150%;
+    background-color: None;
+    color: white;
+    background-color: rgba(96, 247, 96, 0.253);
+}
+table, td {
+    background-color: None;
+    text-align: center;
+    margin: auto;
+    padding: 2%;
+    /* font-weight: bold; */
+    color: white;
+    background-color: rgba(96, 247, 96, 0.253);
+}
+
+
